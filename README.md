@@ -1,2 +1,2 @@
 # Olympic-Games-Athletes-Analysis
-This is a final project of a course SQL for Data Science Capstone Project. I used Python, SQL, Tableau to analyze the dataset.
+This is a final project of a course SQL for Data Science Capstone Project. I used Python, SQL, Tableau to analyze the dataset. This dataset contains two tables: events and regions. The table regions has three columns(NOC, region and notes) and 30 observations. The table events has 15 columns(ID, Name, Sex, Age, , Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event and Medal) and 271115 observations. This project focused on trends of medal on age/countries/height/weight, etc.
